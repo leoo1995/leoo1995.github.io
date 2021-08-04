@@ -7,6 +7,7 @@ const StyledButton = styled.button`
   border-radius: 10px;
   padding: 0.47em 1.33em;
   max-width: ${({ width }) => (width ? width : "150px")};
+  text-decoration: none;
   min-height: 2.22em;
   text-align: center;
   border: none;

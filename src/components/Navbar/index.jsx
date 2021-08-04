@@ -2,6 +2,7 @@ import { useState } from "react"
 import { StyledNavbar } from "./styles.js"
 import { Menu } from "@styled-icons/boxicons-regular/Menu"
 import { Close } from "@styled-icons/evaicons-solid/Close"
+import CV from "../../assets/CV.pdf"
 import Button from "../Button"
 import logo from "../../assets/logo.svg"
 const Navbar = props => {
@@ -37,7 +38,9 @@ const Navbar = props => {
             <a href="#contact-me">Contact me</a>
           </li>
         </ul>
-        <Button>CURRICULUM</Button>
+        <Button as="a" href={CV} target="_blank" download="CV-Luis Ortiz">
+          CURRICULUM
+        </Button>
       </div>
       {showBurguerMenu ? (
         <ul className="burguer-menu">
