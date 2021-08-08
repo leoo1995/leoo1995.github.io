@@ -55,7 +55,7 @@ export const StyledNavbar = styled.nav`
     }
     list-style-type: none;
     display: none;
-    min-width: 520px;
+    min-width: 620px;
     justify-content: space-between;
     a {
       text-decoration: none;
