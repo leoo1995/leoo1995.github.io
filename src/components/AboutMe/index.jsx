@@ -32,7 +32,7 @@ const AboutMe = props => {
           >
             <img src={linkedinIcon} alt="linkedin link" />
           </a>
-          <a target="_blank" href="#contact-me">
+          <a href="#contact-me">
             <img src={mailIcon} alt="contact link" />
           </a>
         </span>
