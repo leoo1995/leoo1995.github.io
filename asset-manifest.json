@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.2b843a5c.chunk.js",
-    "main.js.map": "/static/js/main.2b843a5c.chunk.js.map",
+    "main.js": "/static/js/main.0a8ecc93.chunk.js",
+    "main.js.map": "/static/js/main.0a8ecc93.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.672f7c14.js",
     "runtime-main.js.map": "/static/js/runtime-main.672f7c14.js.map",
     "static/js/2.97217ba5.chunk.js": "/static/js/2.97217ba5.chunk.js",
@@ -14,12 +14,13 @@
     "static/media/github-icon.b89a8ab2.svg": "/static/media/github-icon.b89a8ab2.svg",
     "static/media/logo.6e11d73e.svg": "/static/media/logo.6e11d73e.svg",
     "static/media/logos_linkedin-icon.1d6ccb6b.svg": "/static/media/logos_linkedin-icon.1d6ccb6b.svg",
+    "static/media/markdown-notes.a565e9d3.jpeg": "/static/media/markdown-notes.a565e9d3.jpeg",
     "static/media/photo.414f9d93.png": "/static/media/photo.414f9d93.png",
     "static/media/rewards-store.0042bf52.jpeg": "/static/media/rewards-store.0042bf52.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.672f7c14.js",
     "static/js/2.97217ba5.chunk.js",
-    "static/js/main.2b843a5c.chunk.js"
+    "static/js/main.0a8ecc93.chunk.js"
   ]
 }
