@@ -3,14 +3,11 @@ import styled from "styled-components"
 export const ProjectsWrapper = styled.div`
   width: calc(100% - 40px);
   max-width: 1366px;
-  margin: auto;
+  margin: 40px auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  /* display: grid;
-  align-items: start;
-  justify-items: center;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); */
+
   gap: 10px;
 
   #portfolio {

@@ -15,6 +15,7 @@ const GlobalStyles = createGlobalStyle`
   .App{
     min-height: 100vh;
     background: ${({ theme }) => theme.bgColor};
+    
   }
 
 `
