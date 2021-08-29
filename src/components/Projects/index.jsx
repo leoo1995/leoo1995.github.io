@@ -1,6 +1,6 @@
 import ProjectCard from "../ProjectCard"
 import gifos from "../../assets/projects/gifos.jpeg"
-import markdownNotes from "../../assets/markdown-notes.jpeg"
+import markdownNotes from "../../assets/projects/markdown-notes.jpeg"
 import rewardsStore from "../../assets/projects/rewards-store.jpeg"
 import { ProjectsWrapper } from "./styles"
 const projectList = [
