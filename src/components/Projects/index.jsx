@@ -8,19 +8,31 @@ const projectList = [
     img: markdownNotes,
     title: "Markdown Notes",
     description: `CRUD system of markdown notes that lets users save their respective notes and see them in HTML.`,
-    technologies: ["ReactJs", "Styled components", "Firebase"]
+    technologies: ["ReactJs", "Styled components", "Firebase"],
+    links: {
+      domain: "https://markdown-notes-65f6e.web.app/dashboard",
+      github: "https://github.com/leoo1995/markdown-notes"
+    }
   },
   {
     img: gifos,
     title: "GIFOs",
     description: `GIF search with the GHIPHY search engine.`,
-    technologies: ["ReactJs", "Sass"]
+    technologies: ["ReactJs", "Sass"],
+    links: {
+      domain: "https://leoo1995.github.io/GIFOs/",
+      github: "https://github.com/leoo1995/GIFOs"
+    }
   },
   {
     img: rewardsStore,
     title: "Rewards Store",
     description: `This is the Aerolab Challenge, a store where the user can redeem products with points.`,
-    technologies: ["ReactJs", "Styled components"]
+    technologies: ["ReactJs", "Styled components"],
+    links: {
+      domain: "https://leoo1995.github.io/rewards-store/",
+      github: "https://github.com/leoo1995/GIFOs"
+    }
   }
 ]
 const Projects = () => {
