@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.cbfe9981.chunk.js",
-    "main.js.map": "/static/js/main.cbfe9981.chunk.js.map",
+    "main.js": "/static/js/main.62decf5c.chunk.js",
+    "main.js.map": "/static/js/main.62decf5c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.672f7c14.js",
     "runtime-main.js.map": "/static/js/runtime-main.672f7c14.js.map",
-    "static/js/2.97217ba5.chunk.js": "/static/js/2.97217ba5.chunk.js",
-    "static/js/2.97217ba5.chunk.js.map": "/static/js/2.97217ba5.chunk.js.map",
+    "static/js/2.42c1f01e.chunk.js": "/static/js/2.42c1f01e.chunk.js",
+    "static/js/2.42c1f01e.chunk.js.map": "/static/js/2.42c1f01e.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.97217ba5.chunk.js.LICENSE.txt": "/static/js/2.97217ba5.chunk.js.LICENSE.txt",
-    "static/media/CV.cee1626d.pdf": "/static/media/CV.cee1626d.pdf",
+    "static/js/2.42c1f01e.chunk.js.LICENSE.txt": "/static/js/2.42c1f01e.chunk.js.LICENSE.txt",
+    "static/media/CV.2b34d8c9.pdf": "/static/media/CV.2b34d8c9.pdf",
     "static/media/Vectormail.38f0e51a.svg": "/static/media/Vectormail.38f0e51a.svg",
     "static/media/gifos.dd2a55c8.jpeg": "/static/media/gifos.dd2a55c8.jpeg",
     "static/media/github-icon.b89a8ab2.svg": "/static/media/github-icon.b89a8ab2.svg",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.672f7c14.js",
-    "static/js/2.97217ba5.chunk.js",
-    "static/js/main.cbfe9981.chunk.js"
+    "static/js/2.42c1f01e.chunk.js",
+    "static/js/main.62decf5c.chunk.js"
   ]
 }
